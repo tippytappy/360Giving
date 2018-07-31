@@ -1,0 +1,290 @@
+theme,funder,country,year,recipients,totalAwarded,maxAwarded,avgAwarded,id
+activity,BBC Children in Need,Bangladesh,2015,1,"£7,880","£7,880","£7,880",BBC Children in Need-Bangladesh
+activity,BBC Children in Need,Sudan,2015,1,"£10,000","£10,000","£10,000",BBC Children in Need-Sudan
+activity,Community Foundation serving Tyne & Wear and Northumberland,South Africa,2016,1,"£1,500","£1,500","£1,500",Community Foundation serving Tyne & Wear and Northumberland-South Africa
+activity,Indigo Trust,Nigeria,2015,1,"£30,000","£30,000","£30,000",Indigo Trust-Nigeria
+activity,Lloyds Bank Foundation for England and Wales,Nepal,2014,1,"£29,950","£29,950","£29,950",Lloyds Bank Foundation for England and Wales-Nepal
+activity,Woodward Charitable Trust,Uganda,2016,1,"£2,000","£2,000","£2,000",Woodward Charitable Trust-Uganda
+child,BBC Children in Need,Bangladesh,2015,2,"£20,000","£10,000","£10,000",BBC Children in Need-Bangladesh
+child,BBC Children in Need,Iran,2015,1,"£10,000","£10,000","£10,000",BBC Children in Need-Iran
+child,BBC Children in Need,Pakistan,2015,1,"£77,397","£77,397","£77,397",BBC Children in Need-Pakistan
+child,Co-operative Group,Belarus,2017,1,£889,£889,£889,Co-operative Group-Belarus
+child,Co-operative Group,Nepal,2017,1,"£2,235","£2,235","£2,235",Co-operative Group-Nepal
+child,Corra Foundation,Syria,2016,1,"£4,096","£4,096","£4,096",Corra Foundation-Syria
+child,Corra Foundation,Syria,2017,1,"£5,000","£5,000","£5,000",Corra Foundation-Syria
+child,Indigo Trust,Kenya,2015,1,"£11,872","£11,872","£11,872",Indigo Trust-Kenya
+child,Lloyds Bank Foundation for England and Wales,Congo,2014,1,"£10,000","£10,000","£10,000",Lloyds Bank Foundation for England and Wales-Congo
+child,London Councils,Iran,2017,1,"£3,360,000","£3,360,000","£3,360,000",London Councils-Iran
+child,Oxfordshire Community Foundation,Australia,2017,1,£785,£785,£785,Oxfordshire Community Foundation-Australia
+child,Oxfordshire Community Foundation,India,2017,1,"£4,700","£4,700","£4,700",Oxfordshire Community Foundation-India
+child,Oxfordshire Community Foundation,Sudan,2016,1,"£5,000","£5,000","£5,000",Oxfordshire Community Foundation-Sudan
+child,Quartet Community Foundation,France,2017,1,"£3,600","£3,600","£3,600",Quartet Community Foundation-France
+child,Quartet Community Foundation,Jamaica,2016,1,"£1,320","£1,320","£1,320",Quartet Community Foundation-Jamaica
+child,Quartet Community Foundation,Nepal,2017,1,£100,£100,£100,Quartet Community Foundation-Nepal
+child,Staples Trust,Syria,2015,1,"£10,000","£10,000","£10,000",Staples Trust-Syria
+child,The Henry Smith Charity,Congo,2012,1,"£2,000","£2,000","£2,000",The Henry Smith Charity-Congo
+child,The Henry Smith Charity,Ireland,2012,1,£700,£700,£700,The Henry Smith Charity-Ireland
+child,The Henry Smith Charity,Ireland,2014,1,"£98,500","£98,500","£98,500",The Henry Smith Charity-Ireland
+child,The Tudor Trust,Ireland,2017,1,"£2,000","£2,000","£2,000",The Tudor Trust-Ireland
+child,True Colours Trust,Malawi,2017,1,"£20,414","£20,414","£20,414",True Colours Trust-Malawi
+child,Wolfson Foundation,Georgia,2014,1,"£50,000","£50,000","£50,000",Wolfson Foundation-Georgia
+child,Woodward Charitable Trust,Bangladesh,2004,1,"£1,050","£1,050","£1,050",Woodward Charitable Trust-Bangladesh
+child,Woodward Charitable Trust,Bangladesh,2007,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Bangladesh
+child,Woodward Charitable Trust,Brazil,2011,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Brazil
+child,Woodward Charitable Trust,Congo,2005,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Congo
+child,Woodward Charitable Trust,Ethiopia,2014,1,£500,£500,£500,Woodward Charitable Trust-Ethiopia
+child,Woodward Charitable Trust,India,2008,1,"£30,000","£30,000","£30,000",Woodward Charitable Trust-India
+child,Woodward Charitable Trust,India,2011,1,"£1,634","£1,634","£1,634",Woodward Charitable Trust-India
+child,Woodward Charitable Trust,India,2013,2,"£4,000","£2,500","£2,000",Woodward Charitable Trust-India
+child,Woodward Charitable Trust,India,2017,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-India
+child,Woodward Charitable Trust,Ireland,2009,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Ireland
+child,Woodward Charitable Trust,Ireland,2012,1,"£1,500","£1,500","£1,500",Woodward Charitable Trust-Ireland
+child,Woodward Charitable Trust,Kenya,2016,1,£500,£500,£500,Woodward Charitable Trust-Kenya
+child,Woodward Charitable Trust,Nepal,2017,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Nepal
+child,Woodward Charitable Trust,South Africa,2004,1,"£6,226","£6,226","£6,226",Woodward Charitable Trust-South Africa
+child,Woodward Charitable Trust,South Africa,2015,1,£500,£500,£500,Woodward Charitable Trust-South Africa
+community,"Calouste Gulbenkian Foundation, UK Branch",Ireland,2016,1,"£13,500","£13,500","£13,500","Calouste Gulbenkian Foundation, UK Branch-Ireland"
+community,Cheshire Community Foundation,Congo,2017,1,"£10,000","£10,000","£10,000",Cheshire Community Foundation-Congo
+community,Cheshire Community Foundation,Syria,2017,1,"£9,858","£9,858","£9,858",Cheshire Community Foundation-Syria
+community,City Bridge Trust,Vietnam,2017,1,"£3,000","£3,000","£3,000",City Bridge Trust-Vietnam
+community,Heart Of England Community Foundation,Bangladesh,2016,1,"£1,000","£1,000","£1,000",Heart Of England Community Foundation-Bangladesh
+community,Heart Of England Community Foundation,South Sudan,2017,1,£750,£750,£750,Heart Of England Community Foundation-South Sudan
+community,Indigo Trust,Liberia,2017,1,"£18,000","£18,000","£18,000",Indigo Trust-Liberia
+community,Indigo Trust,South Africa,2015,1,"£10,000","£10,000","£10,000",Indigo Trust-South Africa
+community,Lloyds Bank Foundation for England and Wales,Bangladesh,2014,1,"£7,000","£7,000","£7,000",Lloyds Bank Foundation for England and Wales-Bangladesh
+community,Lloyds Bank Foundation for England and Wales,Bangladesh,2015,1,"£9,717","£9,717","£9,717",Lloyds Bank Foundation for England and Wales-Bangladesh
+community,Lloyds Bank Foundation for England and Wales,Bangladesh,2016,1,"£13,356","£13,356","£13,356",Lloyds Bank Foundation for England and Wales-Bangladesh
+community,Lloyds Bank Foundation for England and Wales,Congo,2014,1,"£10,000","£10,000","£10,000",Lloyds Bank Foundation for England and Wales-Congo
+community,Lloyds Bank Foundation for England and Wales,Eritrea,2015,1,"£12,902","£12,902","£12,902",Lloyds Bank Foundation for England and Wales-Eritrea
+community,Lloyds Bank Foundation for England and Wales,Nepal,2013,1,"£30,000","£30,000","£30,000",Lloyds Bank Foundation for England and Wales-Nepal
+community,Lloyds Bank Foundation for England and Wales,Nepal,2014,1,"£29,950","£29,950","£29,950",Lloyds Bank Foundation for England and Wales-Nepal
+community,Lloyds Bank Foundation for England and Wales,Somalia,2013,1,"£26,000","£26,000","£26,000",Lloyds Bank Foundation for England and Wales-Somalia
+community,Lloyds Bank Foundation for England and Wales,Sri Lanka,2014,1,"£30,000","£30,000","£30,000",Lloyds Bank Foundation for England and Wales-Sri Lanka
+community,Lloyds Bank Foundation for England and Wales,Zimbabwe,2015,1,"£14,893","£14,893","£14,893",Lloyds Bank Foundation for England and Wales-Zimbabwe
+community,Nationwide Foundation,Armenia,2009,1,"£3,300","£3,300","£3,300",Nationwide Foundation-Armenia
+community,Nationwide Foundation,Mali,2009,1,"£4,782","£4,782","£4,782",Nationwide Foundation-Mali
+community,Oxfordshire Community Foundation,Australia,2017,1,£785,£785,£785,Oxfordshire Community Foundation-Australia
+community,Oxfordshire Community Foundation,China,2017,1,"£3,175","£3,175","£3,175",Oxfordshire Community Foundation-China
+community,Oxfordshire Community Foundation,India,2017,2,"£5,700","£4,700","£2,850",Oxfordshire Community Foundation-India
+community,Oxfordshire Community Foundation,Pakistan,2016,1,"£1,420","£1,420","£1,420",Oxfordshire Community Foundation-Pakistan
+community,Oxfordshire Community Foundation,Sudan,2016,1,"£5,000","£5,000","£5,000",Oxfordshire Community Foundation-Sudan
+community,Oxfordshire Community Foundation,Syria,2017,1,£500,£500,£500,Oxfordshire Community Foundation-Syria
+community,Quartet Community Foundation,Jamaica,2016,2,"£2,320","£1,320","£1,160",Quartet Community Foundation-Jamaica
+community,Scottish Council For Voluntary Organisations,Australia,2016,1,"£4,623","£4,623","£4,623",Scottish Council For Voluntary Organisations-Australia
+community,Scottish Council For Voluntary Organisations,Syria,2016,2,"£11,400","£6,400","£5,700",Scottish Council For Voluntary Organisations-Syria
+community,The Dulverton Trust,Kenya,2013,1,"£84,000","£84,000","£84,000",The Dulverton Trust-Kenya
+community,The Dulverton Trust,Tanzania,2010,1,"£12,200","£12,200","£12,200",The Dulverton Trust-Tanzania
+community,The Dulverton Trust,Uganda,2006,1,"£20,000","£20,000","£20,000",The Dulverton Trust-Uganda
+community,The Henry Smith Charity,Albania,2013,1,"£60,800","£60,800","£60,800",The Henry Smith Charity-Albania
+community,The Henry Smith Charity,Albania,2016,1,"£64,300","£64,300","£64,300",The Henry Smith Charity-Albania
+community,The Henry Smith Charity,Bangladesh,2014,1,"£30,000","£30,000","£30,000",The Henry Smith Charity-Bangladesh
+community,The Tudor Trust,Albania,2013,1,"£75,000","£75,000","£75,000",The Tudor Trust-Albania
+community,The Tudor Trust,Albania,2016,1,"£105,000","£105,000","£105,000",The Tudor Trust-Albania
+community,The Tudor Trust,Ireland,2013,2,"£116,500","£60,000","£58,250",The Tudor Trust-Ireland
+community,The Tudor Trust,Ireland,2015,2,"£65,550","£54,000","£32,775",The Tudor Trust-Ireland
+community,The Tudor Trust,Kenya,2013,1,"£2,000","£2,000","£2,000",The Tudor Trust-Kenya
+community,The Tudor Trust,Kenya,2015,1,"£2,000","£2,000","£2,000",The Tudor Trust-Kenya
+community,The Tudor Trust,Kenya,2016,2,"£24,500","£22,500","£12,250",The Tudor Trust-Kenya
+community,The Tudor Trust,Namibia,2015,1,"£2,000","£2,000","£2,000",The Tudor Trust-Namibia
+community,The Tudor Trust,Pakistan,2014,1,"£10,000","£10,000","£10,000",The Tudor Trust-Pakistan
+community,The Tudor Trust,Uganda,2016,1,"£105,000","£105,000","£105,000",The Tudor Trust-Uganda
+community,Trafford Housing Trust Social Investment,Ethiopia,2016,1,"£6,000","£6,000","£6,000",Trafford Housing Trust Social Investment-Ethiopia
+community,Trafford Housing Trust Social Investment,South Africa,2016,1,£395,£395,£395,Trafford Housing Trust Social Investment-South Africa
+community,True Colours Trust,Sierra Leone,2014,1,"£15,000","£15,000","£15,000",True Colours Trust-Sierra Leone
+community,Wiltshire Community Foundation,Eritrea,2015,1,"£5,000","£5,000","£5,000",Wiltshire Community Foundation-Eritrea
+community,Woodward Charitable Trust,Bangladesh,2007,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Bangladesh
+community,Woodward Charitable Trust,Bangladesh,2014,1,£250,£250,£250,Woodward Charitable Trust-Bangladesh
+community,Woodward Charitable Trust,Cameroon,2005,1,"£2,600","£2,600","£2,600",Woodward Charitable Trust-Cameroon
+community,Woodward Charitable Trust,The Gambia,2015,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-The Gambia
+disabled,Co-operative Group,Japan,2017,1,"£1,161","£1,161","£1,161",Co-operative Group-Japan
+disabled,Wiltshire Community Foundation,Eritrea,2015,1,"£5,000","£5,000","£5,000",Wiltshire Community Foundation-Eritrea
+disabled,Woodward Charitable Trust,Bangladesh,2007,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Bangladesh
+disabled,Woodward Charitable Trust,India,2017,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-India
+elderly,The Dulverton Trust,Zimbabwe,2005,1,"£20,000","£20,000","£20,000",The Dulverton Trust-Zimbabwe
+equipment,Oxfordshire Community Foundation,Australia,2017,1,£785,£785,£785,Oxfordshire Community Foundation-Australia
+equipment,Oxfordshire Community Foundation,Syria,2017,1,£500,£500,£500,Oxfordshire Community Foundation-Syria
+equipment,The Tudor Trust,Kenya,2014,1,"£74,000","£74,000","£74,000",The Tudor Trust-Kenya
+equipment,The Tudor Trust,Uganda,2014,1,"£2,000","£2,000","£2,000",The Tudor Trust-Uganda
+equipment,Wolfson Foundation,Madagascar,2015,1,"£78,000","£78,000","£78,000",Wolfson Foundation-Madagascar
+equipment,Woodward Charitable Trust,Kenya,2015,1,£500,£500,£500,Woodward Charitable Trust-Kenya
+equipment,Woodward Charitable Trust,South Africa,2004,1,"£6,226","£6,226","£6,226",Woodward Charitable Trust-South Africa
+equipment,Woodward Charitable Trust,Tanzania,2010,1,"£2,000","£2,000","£2,000",Woodward Charitable Trust-Tanzania
+equipment,Woodward Charitable Trust,Zambia,2015,1,"£1,500","£1,500","£1,500",Woodward Charitable Trust-Zambia
+mental,London Councils,Iran,2017,1,"£3,360,000","£3,360,000","£3,360,000",London Councils-Iran
+mental,Scottish Council For Voluntary Organisations,Syria,2016,1,"£5,000","£5,000","£5,000",Scottish Council For Voluntary Organisations-Syria
+mental,The Henry Smith Charity,Ireland,2013,1,"£103,100","£103,100","£103,100",The Henry Smith Charity-Ireland
+mental,The Tudor Trust,Ireland,2015,1,"£54,000","£54,000","£54,000",The Tudor Trust-Ireland
+mental,Wiltshire Community Foundation,Eritrea,2015,1,"£5,000","£5,000","£5,000",Wiltshire Community Foundation-Eritrea
+study,BBC Children in Need,Bangladesh,2013,1,"£35,070","£35,070","£35,070",BBC Children in Need-Bangladesh
+study,BBC Children in Need,Bangladesh,2015,2,"£20,000","£10,000","£10,000",BBC Children in Need-Bangladesh
+study,BBC Children in Need,Bhutan,2015,1,"£10,000","£10,000","£10,000",BBC Children in Need-Bhutan
+study,BBC Children in Need,Iran,2015,1,"£10,000","£10,000","£10,000",BBC Children in Need-Iran
+study,"Calouste Gulbenkian Foundation, UK Branch",Ireland,2016,1,"£13,500","£13,500","£13,500","Calouste Gulbenkian Foundation, UK Branch-Ireland"
+study,"Calouste Gulbenkian Foundation, UK Branch",Japan,2015,15,"£295,000","£20,000","£19,667","Calouste Gulbenkian Foundation, UK Branch-Japan"
+study,"Calouste Gulbenkian Foundation, UK Branch",Portugal,2016,1,"£20,000","£20,000","£20,000","Calouste Gulbenkian Foundation, UK Branch-Portugal"
+study,Co-operative Group,France,2017,1,"£3,537","£3,537","£3,537",Co-operative Group-France
+study,Essex Community Foundation,Poland,2017,1,"£1,000","£1,000","£1,000",Essex Community Foundation-Poland
+study,Heart Of England Community Foundation,Bangladesh,2016,1,"£4,906","£4,906","£4,906",Heart Of England Community Foundation-Bangladesh
+study,Indigo Trust,Cameroon,2014,1,"£12,025","£12,025","£12,025",Indigo Trust-Cameroon
+study,Indigo Trust,Ethiopia,2015,1,"£15,760","£15,760","£15,760",Indigo Trust-Ethiopia
+study,Indigo Trust,Ghana,2016,1,"£10,862","£10,862","£10,862",Indigo Trust-Ghana
+study,Lloyd's Register Foundation,China,2016,1,"£701,911","£701,911","£701,911",Lloyd's Register Foundation-China
+study,Lloyd's Register Foundation,Malta,2013,1,"£230,571","£230,571","£230,571",Lloyd's Register Foundation-Malta
+study,Lloyd's Register Foundation,Singapore,2016,1,"£10,000,000","£10,000,000","£10,000,000",Lloyd's Register Foundation-Singapore
+study,Lloyd's Register Foundation,South Africa,2015,1,"£15,000","£15,000","£15,000",Lloyd's Register Foundation-South Africa
+study,Lloyds Bank Foundation for England and Wales,Congo,2014,1,"£10,000","£10,000","£10,000",Lloyds Bank Foundation for England and Wales-Congo
+study,Nationwide Foundation,Mali,2009,1,"£4,782","£4,782","£4,782",Nationwide Foundation-Mali
+study,Oxfordshire Community Foundation,Australia,2017,1,£785,£785,£785,Oxfordshire Community Foundation-Australia
+study,Oxfordshire Community Foundation,India,2017,1,"£4,700","£4,700","£4,700",Oxfordshire Community Foundation-India
+study,Oxfordshire Community Foundation,Japan,2016,1,"£5,000","£5,000","£5,000",Oxfordshire Community Foundation-Japan
+study,Oxfordshire Community Foundation,Uganda,2017,1,"£5,503","£5,503","£5,503",Oxfordshire Community Foundation-Uganda
+study,Pears Foundation,Israel,2015,1,"£39,479","£39,479","£39,479",Pears Foundation-Israel
+study,Pears Foundation,Israel,2016,1,"£12,000","£12,000","£12,000",Pears Foundation-Israel
+study,Quartet Community Foundation,Uganda,2017,1,£500,£500,£500,Quartet Community Foundation-Uganda
+study,Scottish Council For Voluntary Organisations,Australia,2016,1,"£4,623","£4,623","£4,623",Scottish Council For Voluntary Organisations-Australia
+study,Scottish Council For Voluntary Organisations,Syria,2016,1,"£5,000","£5,000","£5,000",Scottish Council For Voluntary Organisations-Syria
+study,Staples Trust,Liberia,2015,1,"£5,000","£5,000","£5,000",Staples Trust-Liberia
+study,Tedworth Charitable Trust,Greece,2016,1,"£5,000","£5,000","£5,000",Tedworth Charitable Trust-Greece
+study,The David & Elaine Potter Foundation,Israel,2017,1,"£10,000","£10,000","£10,000",The David & Elaine Potter Foundation-Israel
+study,The David & Elaine Potter Foundation,Lesotho,2016,1,"£40,000","£40,000","£40,000",The David & Elaine Potter Foundation-Lesotho
+study,The David & Elaine Potter Foundation,South Africa,2013,1,"£30,000","£30,000","£30,000",The David & Elaine Potter Foundation-South Africa
+study,The David & Elaine Potter Foundation,South Africa,2014,2,"£56,000","£49,000","£28,000",The David & Elaine Potter Foundation-South Africa
+study,The David & Elaine Potter Foundation,South Africa,2017,1,"£39,442","£39,442","£39,442",The David & Elaine Potter Foundation-South Africa
+study,The David & Elaine Potter Foundation,Zambia,2016,1,"£19,588","£19,588","£19,588",The David & Elaine Potter Foundation-Zambia
+study,The Dulverton Trust,Kenya,2013,1,"£84,000","£84,000","£84,000",The Dulverton Trust-Kenya
+study,The Dulverton Trust,Uganda,2013,1,"£20,000","£20,000","£20,000",The Dulverton Trust-Uganda
+study,The Henry Smith Charity,Ireland,2013,1,"£69,200","£69,200","£69,200",The Henry Smith Charity-Ireland
+study,The Henry Smith Charity,Ireland,2015,1,"£50,000","£50,000","£50,000",The Henry Smith Charity-Ireland
+study,The Henry Smith Charity,Ireland,2016,1,"£74,300","£74,300","£74,300",The Henry Smith Charity-Ireland
+study,The Tudor Trust,Ethiopia,2015,1,"£2,000","£2,000","£2,000",The Tudor Trust-Ethiopia
+study,The Tudor Trust,Ireland,2017,1,"£66,000","£66,000","£66,000",The Tudor Trust-Ireland
+study,The Tudor Trust,Kenya,2014,1,"£100,000","£100,000","£100,000",The Tudor Trust-Kenya
+study,The Tudor Trust,Kenya,2015,1,"£2,000","£2,000","£2,000",The Tudor Trust-Kenya
+study,The Tudor Trust,Kenya,2016,1,"£2,000","£2,000","£2,000",The Tudor Trust-Kenya
+study,The Tudor Trust,Kenya,2017,1,"£2,000","£2,000","£2,000",The Tudor Trust-Kenya
+study,The Tudor Trust,Malawi,2016,1,"£3,750","£3,750","£3,750",The Tudor Trust-Malawi
+study,The Tudor Trust,Namibia,2015,1,"£2,000","£2,000","£2,000",The Tudor Trust-Namibia
+study,The Tudor Trust,Namibia,2016,1,"£2,000","£2,000","£2,000",The Tudor Trust-Namibia
+study,The Tudor Trust,South Africa,2015,1,"£2,000","£2,000","£2,000",The Tudor Trust-South Africa
+study,The Tudor Trust,Zimbabwe,2017,1,"£6,100","£6,100","£6,100",The Tudor Trust-Zimbabwe
+study,Trafford Housing Trust Social Investment,Ethiopia,2016,1,"£6,000","£6,000","£6,000",Trafford Housing Trust Social Investment-Ethiopia
+study,True Colours Trust,Malawi,2014,1,"£150,000","£150,000","£150,000",True Colours Trust-Malawi
+study,True Colours Trust,Malawi,2017,1,"£2,813","£2,813","£2,813",True Colours Trust-Malawi
+study,Walcot Foundation,Austria,2012,1,"£5,038","£5,038","£5,038",Walcot Foundation-Austria
+study,Walcot Foundation,Belgium,2017,1,"£3,018","£3,018","£3,018",Walcot Foundation-Belgium
+study,Walcot Foundation,Canada,2017,1,"£2,250","£2,250","£2,250",Walcot Foundation-Canada
+study,Walcot Foundation,France,2015,2,"£1,590","£1,300",£795,Walcot Foundation-France
+study,Walcot Foundation,France,2017,1,£300,£300,£300,Walcot Foundation-France
+study,Walcot Foundation,Spain,2015,1,"£1,400","£1,400","£1,400",Walcot Foundation-Spain
+study,Walcot Foundation,Spain,2017,1,"£4,300","£4,300","£4,300",Walcot Foundation-Spain
+study,Woodward Charitable Trust,Greece,2016,2,"£47,000","£42,000","£23,500",Woodward Charitable Trust-Greece
+study,Woodward Charitable Trust,Malawi,2013,1,£250,£250,£250,Woodward Charitable Trust-Malawi
+study,Woodward Charitable Trust,Nicaragua,2007,1,"£1,500","£1,500","£1,500",Woodward Charitable Trust-Nicaragua
+study,Woodward Charitable Trust,Pakistan,2005,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Pakistan
+study,Woodward Charitable Trust,Tanzania,2010,1,"£2,000","£2,000","£2,000",Woodward Charitable Trust-Tanzania
+study,Woodward Charitable Trust,The Gambia,2015,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-The Gambia
+study,Woodward Charitable Trust,Uganda,2016,1,"£2,000","£2,000","£2,000",Woodward Charitable Trust-Uganda
+study,ZING,Tanzania,2012,1,"£25,000","£25,000","£25,000",ZING-Tanzania
+training,BBC Children in Need,Bangladesh,2013,1,"£35,070","£35,070","£35,070",BBC Children in Need-Bangladesh
+training,Cheshire Community Foundation,Congo,2017,1,"£10,000","£10,000","£10,000",Cheshire Community Foundation-Congo
+training,Indigo Trust,Ethiopia,2015,1,"£15,760","£15,760","£15,760",Indigo Trust-Ethiopia
+training,Indigo Trust,Liberia,2013,1,"£30,000","£30,000","£30,000",Indigo Trust-Liberia
+training,Indigo Trust,Namibia,2012,1,"£15,310","£15,310","£15,310",Indigo Trust-Namibia
+training,Indigo Trust,Nigeria,2011,1,"£9,995","£9,995","£9,995",Indigo Trust-Nigeria
+training,Indigo Trust,South Africa,2013,1,"£4,865","£4,865","£4,865",Indigo Trust-South Africa
+training,Indigo Trust,Tanzania,2015,1,"£9,908","£9,908","£9,908",Indigo Trust-Tanzania
+training,Indigo Trust,Uganda,2016,1,"£8,161","£8,161","£8,161",Indigo Trust-Uganda
+training,Lloyds Bank Foundation for England and Wales,Bangladesh,2015,1,"£9,717","£9,717","£9,717",Lloyds Bank Foundation for England and Wales-Bangladesh
+training,Lloyds Bank Foundation for England and Wales,Bangladesh,2016,1,"£13,356","£13,356","£13,356",Lloyds Bank Foundation for England and Wales-Bangladesh
+training,London Catalyst,Cameroon,2014,1,"£2,000","£2,000","£2,000",London Catalyst-Cameroon
+training,London Councils,Iran,2017,1,"£3,360,000","£3,360,000","£3,360,000",London Councils-Iran
+training,Nationwide Foundation,Albania,2011,1,"£4,960","£4,960","£4,960",Nationwide Foundation-Albania
+training,Nationwide Foundation,Armenia,2009,1,"£3,300","£3,300","£3,300",Nationwide Foundation-Armenia
+training,Nationwide Foundation,Bangladesh,2012,1,"£5,000","£5,000","£5,000",Nationwide Foundation-Bangladesh
+training,Nationwide Foundation,Congo,2011,1,"£4,990","£4,990","£4,990",Nationwide Foundation-Congo
+training,Oxfordshire Community Foundation,Japan,2016,1,"£5,000","£5,000","£5,000",Oxfordshire Community Foundation-Japan
+training,Oxfordshire Community Foundation,Kenya,2017,1,"£5,000","£5,000","£5,000",Oxfordshire Community Foundation-Kenya
+training,Oxfordshire Community Foundation,Sudan,2016,1,"£5,000","£5,000","£5,000",Oxfordshire Community Foundation-Sudan
+training,Oxfordshire Community Foundation,Syria,2017,1,£500,£500,£500,Oxfordshire Community Foundation-Syria
+training,Scottish Council For Voluntary Organisations,Syria,2016,1,"£6,400","£6,400","£6,400",Scottish Council For Voluntary Organisations-Syria
+training,Seafarers UK,Canada,2017,1,"£10,000","£10,000","£10,000",Seafarers UK-Canada
+training,The David & Elaine Potter Foundation,South Africa,2017,1,"£25,427","£25,427","£25,427",The David & Elaine Potter Foundation-South Africa
+training,The David & Elaine Potter Foundation,Zambia,2016,1,"£19,588","£19,588","£19,588",The David & Elaine Potter Foundation-Zambia
+training,The Dulverton Trust,Ethiopia,2007,1,"£20,000","£20,000","£20,000",The Dulverton Trust-Ethiopia
+training,The Dulverton Trust,Kenya,2007,1,"£3,000","£3,000","£3,000",The Dulverton Trust-Kenya
+training,The Dulverton Trust,Zimbabwe,2011,1,"£15,000","£15,000","£15,000",The Dulverton Trust-Zimbabwe
+training,The Henry Smith Charity,Ireland,2015,1,"£120,000","£120,000","£120,000",The Henry Smith Charity-Ireland
+training,The Tudor Trust,Iraq,2015,1,"£50,000","£50,000","£50,000",The Tudor Trust-Iraq
+training,The Tudor Trust,Kenya,2013,1,"£122,000","£122,000","£122,000",The Tudor Trust-Kenya
+training,The Tudor Trust,Kenya,2014,5,"£184,000","£74,000","£36,800",The Tudor Trust-Kenya
+training,The Tudor Trust,Kenya,2015,4,"£188,000","£75,000","£47,000",The Tudor Trust-Kenya
+training,The Tudor Trust,Kenya,2016,2,"£105,000","£65,000","£52,500",The Tudor Trust-Kenya
+training,The Tudor Trust,Kenya,2017,1,"£115,000","£115,000","£115,000",The Tudor Trust-Kenya
+training,The Tudor Trust,Uganda,2013,2,"£83,000","£53,000","£41,500",The Tudor Trust-Uganda
+training,The Tudor Trust,Uganda,2014,1,"£2,000","£2,000","£2,000",The Tudor Trust-Uganda
+training,The Tudor Trust,Uganda,2015,1,"£40,000","£40,000","£40,000",The Tudor Trust-Uganda
+training,The Tudor Trust,Uganda,2016,1,"£105,000","£105,000","£105,000",The Tudor Trust-Uganda
+training,The Tudor Trust,Zambia,2013,1,"£7,500","£7,500","£7,500",The Tudor Trust-Zambia
+training,The Tudor Trust,Zimbabwe,2013,2,"£22,420","£21,000","£11,210",The Tudor Trust-Zimbabwe
+training,The Tudor Trust,Zimbabwe,2014,1,"£2,000","£2,000","£2,000",The Tudor Trust-Zimbabwe
+training,The Tudor Trust,Zimbabwe,2015,1,"£27,500","£27,500","£27,500",The Tudor Trust-Zimbabwe
+training,The Tudor Trust,Zimbabwe,2016,1,"£25,000","£25,000","£25,000",The Tudor Trust-Zimbabwe
+training,The Tudor Trust,Zimbabwe,2017,2,"£46,100","£40,000","£23,050",The Tudor Trust-Zimbabwe
+training,True Colours Trust,Malawi,2014,1,"£150,000","£150,000","£150,000",True Colours Trust-Malawi
+training,Woodward Charitable Trust,Ghana,2014,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Ghana
+training,Woodward Charitable Trust,Kenya,2015,1,£500,£500,£500,Woodward Charitable Trust-Kenya
+training,Woodward Charitable Trust,The Gambia,2015,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-The Gambia
+training,Woodward Charitable Trust,Zambia,2016,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Zambia
+travel,Indigo Trust,Nigeria,2013,1,"£9,648","£9,648","£9,648",Indigo Trust-Nigeria
+travel,Indigo Trust,South Africa,2015,1,"£26,000","£26,000","£26,000",Indigo Trust-South Africa
+travel,Lloyd's Register Foundation,Singapore,2014,1,"£3,000","£3,000","£3,000",Lloyd's Register Foundation-Singapore
+travel,Seafarers UK,Japan,2017,1,"£1,000","£1,000","£1,000",Seafarers UK-Japan
+youth,BBC Children in Need,Bangladesh,2013,1,"£35,070","£35,070","£35,070",BBC Children in Need-Bangladesh
+youth,BBC Children in Need,Bangladesh,2015,4,"£37,880","£10,000","£9,470",BBC Children in Need-Bangladesh
+youth,BBC Children in Need,Iran,2015,1,"£10,000","£10,000","£10,000",BBC Children in Need-Iran
+youth,BBC Children in Need,Pakistan,2015,1,"£77,397","£77,397","£77,397",BBC Children in Need-Pakistan
+youth,BBC Children in Need,Vietnam,2015,1,"£10,000","£10,000","£10,000",BBC Children in Need-Vietnam
+youth,Co-operative Group,France,2017,1,"£3,537","£3,537","£3,537",Co-operative Group-France
+youth,Comic Relief,Sierra Leone,2016,1,"£1,413,421","£1,413,421","£1,413,421",Comic Relief-Sierra Leone
+youth,Community Foundation for Surrey,Italy,2016,1,£250,£250,£250,Community Foundation for Surrey-Italy
+youth,Heart Of England Community Foundation,Bangladesh,2016,1,"£1,000","£1,000","£1,000",Heart Of England Community Foundation-Bangladesh
+youth,Indigo Trust,Cameroon,2012,1,"£15,488","£15,488","£15,488",Indigo Trust-Cameroon
+youth,Indigo Trust,Kenya,2017,1,"£15,671","£15,671","£15,671",Indigo Trust-Kenya
+youth,Indigo Trust,Namibia,2012,1,"£15,310","£15,310","£15,310",Indigo Trust-Namibia
+youth,Indigo Trust,Nigeria,2011,1,"£9,995","£9,995","£9,995",Indigo Trust-Nigeria
+youth,Indigo Trust,Sierra Leone,2016,1,"£356,100","£356,100","£356,100",Indigo Trust-Sierra Leone
+youth,Indigo Trust,South Africa,2015,1,"£22,000","£22,000","£22,000",Indigo Trust-South Africa
+youth,Lloyds Bank Foundation for England and Wales,Bangladesh,2014,1,"£28,000","£28,000","£28,000",Lloyds Bank Foundation for England and Wales-Bangladesh
+youth,Lloyds Bank Foundation for England and Wales,Bangladesh,2016,1,"£13,356","£13,356","£13,356",Lloyds Bank Foundation for England and Wales-Bangladesh
+youth,Oxfordshire Community Foundation,India,2017,2,"£5,700","£4,700","£2,850",Oxfordshire Community Foundation-India
+youth,Oxfordshire Community Foundation,Japan,2016,1,"£5,000","£5,000","£5,000",Oxfordshire Community Foundation-Japan
+youth,Oxfordshire Community Foundation,Kenya,2017,1,"£5,000","£5,000","£5,000",Oxfordshire Community Foundation-Kenya
+youth,Oxfordshire Community Foundation,Saudi Arabia,2017,1,"£5,000","£5,000","£5,000",Oxfordshire Community Foundation-Saudi Arabia
+youth,Oxfordshire Community Foundation,Syria,2017,1,£500,£500,£500,Oxfordshire Community Foundation-Syria
+youth,Pears Foundation,Israel,2015,1,"£52,616","£52,616","£52,616",Pears Foundation-Israel
+youth,Quartet Community Foundation,France,2017,1,"£3,600","£3,600","£3,600",Quartet Community Foundation-France
+youth,Quartet Community Foundation,Uganda,2017,1,£500,£500,£500,Quartet Community Foundation-Uganda
+youth,Scottish Council For Voluntary Organisations,Australia,2016,1,"£4,623","£4,623","£4,623",Scottish Council For Voluntary Organisations-Australia
+youth,Scottish Council For Voluntary Organisations,Syria,2016,1,"£5,000","£5,000","£5,000",Scottish Council For Voluntary Organisations-Syria
+youth,The Dulverton Trust,Uganda,2009,1,"£20,000","£20,000","£20,000",The Dulverton Trust-Uganda
+youth,The Henry Smith Charity,Ireland,2015,1,"£120,000","£120,000","£120,000",The Henry Smith Charity-Ireland
+youth,The Henry Smith Charity,Ireland,2016,1,"£74,300","£74,300","£74,300",The Henry Smith Charity-Ireland
+youth,The Tudor Trust,Ireland,2014,1,"£111,000","£111,000","£111,000",The Tudor Trust-Ireland
+youth,The Tudor Trust,Ireland,2016,1,"£45,000","£45,000","£45,000",The Tudor Trust-Ireland
+youth,The Tudor Trust,Ireland,2017,2,"£102,000","£100,000","£51,000",The Tudor Trust-Ireland
+youth,The Tudor Trust,Kenya,2014,1,"£100,000","£100,000","£100,000",The Tudor Trust-Kenya
+youth,The Tudor Trust,Slovakia,2013,1,"£26,000","£26,000","£26,000",The Tudor Trust-Slovakia
+youth,The Tudor Trust,Uganda,2013,1,"£53,000","£53,000","£53,000",The Tudor Trust-Uganda
+youth,The Tudor Trust,Uganda,2015,2,"£97,000","£57,000","£48,500",The Tudor Trust-Uganda
+youth,The Tudor Trust,Uganda,2017,1,"£30,000","£30,000","£30,000",The Tudor Trust-Uganda
+youth,Trafford Housing Trust Social Investment,Ethiopia,2016,1,"£6,000","£6,000","£6,000",Trafford Housing Trust Social Investment-Ethiopia
+youth,Trafford Housing Trust Social Investment,South Africa,2016,1,£395,£395,£395,Trafford Housing Trust Social Investment-South Africa
+youth,Two Ridings Community Foundation,Spain,2017,1,£500,£500,£500,Two Ridings Community Foundation-Spain
+youth,Wiltshire Community Foundation,Eritrea,2015,1,"£5,000","£5,000","£5,000",Wiltshire Community Foundation-Eritrea
+youth,Wolfson Foundation,Georgia,2014,1,"£50,000","£50,000","£50,000",Wolfson Foundation-Georgia
+youth,Woodward Charitable Trust,Ghana,2014,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Ghana
+youth,Woodward Charitable Trust,India,2010,1,"£2,000","£2,000","£2,000",Woodward Charitable Trust-India
+youth,Woodward Charitable Trust,Israel,2014,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Israel
+youth,Woodward Charitable Trust,Pakistan,2005,1,"£1,000","£1,000","£1,000",Woodward Charitable Trust-Pakistan
+youth,ZING,Uganda,2012,1,"£55,000","£55,000","£55,000",ZING-Uganda
+youth,ZING,Zambia,2010,1,"£60,000","£60,000","£60,000",ZING-Zambia
